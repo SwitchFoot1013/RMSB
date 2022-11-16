@@ -9,7 +9,7 @@ src: url('./Space_Mono/SpaceMono-Regular.ttf') format('truetype');
 }
 
 body{
-  background-color: #fff;
+  background-color: #717572;
   color:black;
   font-family: 'space';
 font-size: 18px;
